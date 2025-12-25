@@ -7,9 +7,9 @@
     &color=1483B9
     &center=true
     &vCenter=true
-    &width=280
+    &width=300
     &repeat=true
-    &lines=Gizem+Öz" />
+    &lines=Gizem+%C3%96z" />
 </h2>
 
 
