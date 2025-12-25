@@ -4,7 +4,9 @@
 
 
 <h3 align="center">
-  <span style="color:#1483B9;">I enjoy turning everyday problems into mobile apps.</span>
+  <h3 align="center">
+  I enjoy turning everyday problems into mobile apps.
+  </h3>
 </h3>
 
 
