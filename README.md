@@ -1,15 +1,17 @@
-<h1 align="center">
+<h2 align="center">
+  Hi, I am&nbsp;
   <img src="https://readme-typing-svg.demolab.com
     ?font=Fira+Code
-    &size=34
-    &pause=1200
+    &size=32
+    &pause=1000
     &color=1483B9
     &center=true
     &vCenter=true
-    &width=600
-    &lines=Gizem+Öz;Mobile+Developer;Android+%26+Flutter" 
-  />
-</h1>
+    &width=280
+    &repeat=true
+    &lines=Gizem+Öz" />
+</h2>
+
 
 <h3 align="center">
   📱 Building user-focused mobile experiences
@@ -44,13 +46,20 @@
   <a href="https://gzmoz.github.io/portfolio/" target="_blank">
     <img src="./assets/logo3.png" height="40" alt="Personal Website" />
   </a>
+
+  <img width="18" />
+
   <a href="https://linkedin.com/in/gizem-oz">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+
+  <img width="18" />
+
   <a href="mailto:oz.gizemoz01@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </div>
+
 
 
 ###
