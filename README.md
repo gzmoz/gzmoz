@@ -4,10 +4,10 @@
 
 
 
+<p align="center">
+  <code>I enjoy turning everyday problems into mobile apps.</code>
+</p>
 
-<h3 align="center">
-    I enjoy turning everyday problems into mobile apps.
-</h3>
 
 ###
 
