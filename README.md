@@ -42,7 +42,7 @@
 
 <div align="center">
   <p align="center">
-  If you'd like to get in touch, you can find me here.
+  // if you'd like to get in touch, you can find me here.
   </p>
   <a href="https://gzmoz.github.io/portfolio/" target="_blank">
     <img src="./assets/logo3.png" height="40" alt="Personal Website" />
