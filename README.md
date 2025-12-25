@@ -54,13 +54,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gzmoz&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=gzmoz&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/gzmoz/gzmoz/output/pacman-contribution-graph-dark.svg">
@@ -69,3 +62,12 @@
   <img alt="pacman contribution graph" 
     src="https://raw.githubusercontent.com/gzmoz/gzmoz/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gzmoz&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=gzmoz&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
+</div>
+
+
