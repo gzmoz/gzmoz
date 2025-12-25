@@ -6,8 +6,7 @@
 
 
 <h3 align="center">
-   ```text
-I enjoy turning everyday problems into mobile apps.
+    <code>I enjoy turning everyday problems into mobile apps.</code>
 </h3>
 
 ###
