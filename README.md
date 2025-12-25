@@ -12,6 +12,10 @@
 ###
 
 <div align="center">
+  <p align="center">
+  // tools I usually work with
+  </p>
+
   <!-- Mobile & Core -->
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
   <img width="12" />
