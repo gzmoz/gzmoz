@@ -68,12 +68,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gzmoz&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=gzmoz&theme=dracula&hide_border=false" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=gzmoz&theme=dracula&column=4" height="150" />
-</div>
 
 
 
