@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-  📱 Building user-focused mobile experiences
+  <em>I enjoy turning everyday problems into mobile apps.</em>
 </h3>
 
 ###
