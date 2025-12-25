@@ -9,7 +9,7 @@
     &vCenter=true
     &width=300
     &repeat=true
-    &lines=Gizem+%C3%96z" />
+    &lines=Gizem" />
 </h2>
 
 
