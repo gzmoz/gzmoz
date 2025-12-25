@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  /* I enjoy turning everyday problems into mobile apps. */
+  /* I enjoy turning everyday problems into mobile apps.
 </h3>
 
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <p align="center">
-  // tools I usually work with
+  * tools I usually work with
   </p>
 
   <!-- Mobile & Core -->
@@ -45,7 +45,7 @@
 
 <div align="center">
   <p align="center">
-  // if you'd like to get in touch, you can find me here.
+  * if you'd like to get in touch, you can find me here. */
   </p>
   <a href="https://gzmoz.github.io/portfolio/" target="_blank">
     <img src="./assets/logo3.png" height="40" alt="Personal Website" />
