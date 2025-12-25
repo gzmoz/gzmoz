@@ -3,10 +3,15 @@
 </h2>
 
 
+<div align="center">
+  <img src="./assets/hero-text.png" alt="Hero statement" width="900" />
+</div>
 
-<p align="center">
-  <code>I enjoy turning everyday problems into mobile apps.</code>
-</p>
+<h3 align="center">
+  <span style="color:#1483B9;">I enjoy turning everyday problems into mobile apps.</span>
+</h3>
+
+
 
 
 ###
