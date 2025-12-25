@@ -80,6 +80,19 @@
   <img src="https://streak-stats.demolab.com?user=gzmoz&theme=dracula&hide_border=false" height="150" />
 </div>
 
+##
+
+###
+
+<div align="center">
+  <p align="center">
+    <code>// currently working on PawNav — a mobile app for reporting lost and found pets.</code>
+  </p>
+
+  <img src="./assets/pawnav.png" alt="PawNav mobile app screens" width="900" />
+</div>
+
+
 
 
 
