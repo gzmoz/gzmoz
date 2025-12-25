@@ -4,9 +4,7 @@
 
 
 <h3 align="center">
-  <h3 align="center">
-  I enjoy turning everyday problems into mobile apps.
-  </h3>
+  /* I enjoy turning everyday problems into mobile apps. */
 </h3>
 
 
