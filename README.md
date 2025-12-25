@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://gzmoz.github.io/portfolio/" target="_blank">
-    <img src="./assets/logo.jpeg" height="40" alt="Personal Website" />
+    <img src="./assets/logo3.png" height="40" alt="Personal Website" />
   </a>
   <a href="https://linkedin.com/in/gizem-oz">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
