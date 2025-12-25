@@ -86,10 +86,11 @@
 
 <div align="center">
   <p align="center">
-    <code>// currently working on PawNav — a mobile app for reporting lost and found pets.</code>
+    // currently working on PawNav — a mobile app that helps people report lost and found pets.
+    // the app focuses on location-based posts, clear listings, and simple flows for real situations.
   </p>
 
-  <img src="./assets/pawnav.png" alt="PawNav mobile app screens" width="900" />
+  <img src="./assets/pawnav.png" alt="PawNav mobile app screens" width="600" />
 </div>
 
 
