@@ -34,6 +34,12 @@
 
 ###
 
+<p align="center">
+  If you'd like to get in touch, you can find me here.
+</p>
+
+<img width="18" />
+
 <div align="center">
   <a href="https://gzmoz.github.io/portfolio/" target="_blank">
     <img src="./assets/logo3.png" height="40" alt="Personal Website" />
