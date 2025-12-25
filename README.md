@@ -41,16 +41,17 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/gizem-oz">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=1483B9&logoColor=white&style=for-the-badge" height="28" />
+  <a href="https://gzmoz.github.io/portfolio/" target="_blank">
+    <img src="./assets/logo.png" height="40" alt="Personal Website" />
   </a>
-  <a href="https://github.com/gzmoz">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=0A0A0A&logoColor=white&style=for-the-badge" height="28" />
+  <a href="https://linkedin.com/in/gizem-oz">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:oz.gizemoz01@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </div>
+
 
 ###
 
