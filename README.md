@@ -24,12 +24,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android studio logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img width="12" />
+  
+
+
+  
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
@@ -78,10 +88,10 @@
 </picture>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gzmoz&theme=dracula&hide_border=false" height="150" />
-</div>
+</div>-->
 
 ##
 
