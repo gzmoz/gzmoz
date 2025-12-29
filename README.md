@@ -1,5 +1,11 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=1483B9&center=true&vCenter=true&width=420&repeat=true&lines=Hi%2C+I+am+Gizem" />
+  <img 
+    src="./assets/me.png" 
+    alt="Me"
+    height="80"
+    style="border-radius: 50%;"
+  />
 </h2>
 
 
