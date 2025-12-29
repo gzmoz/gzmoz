@@ -3,7 +3,7 @@
   <img 
     src="./assets/me.png" 
     alt="Me"
-    height="80"
+    height="120"
     style="border-radius: 50%;"
   />
 </h2>
