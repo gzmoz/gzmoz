@@ -106,10 +106,7 @@
 
 <div align="center">
   <p align="center">
-    // currently working on PawNav — a mobile app that helps people report lost and found pets. <br>
-    // the app focuses on location-based posts, clear listings, and simple flows for real situations.
-  </p>
-
+    // currently working on PawNav, a mobile app that helps people report lost and found pets.
   <img src="./assets/pawnav.png" alt="PawNav mobile app screens" width="600" />
 </div>
 
